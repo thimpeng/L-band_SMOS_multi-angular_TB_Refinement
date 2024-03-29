@@ -2,7 +2,7 @@
 
 Source codes that were used to produce the dataset associated with the following research:
 
-Title: An RFI-suppressed SMOS L-band multi-angular brightness temperature dataset spanning over a decade (since 2010) Authors: Zhiqing Peng, Tianjie Zhao, Jiancheng Shi, Yann H. Kerr, Nemesio J. Rodríguez-Fernández, Panpan Yao, Tao Che.
+Peng, Z., Zhao, T., Shi, J. et al. An RFI-suppressed SMOS L-band multi-angular brightness temperature dataset spanning over a decade (since 2010). Sci Data 10, 599 (2023). https://doi.org/10.1038/s41597-023-02499-z
 
 The RFI-suppressed SMOS multi-angular brightness temperature can be obtained from the SMOS SCLF1C product (version 724) by “two_step_refinement_main.exe” (unzip from the 5 rar files). 
 
